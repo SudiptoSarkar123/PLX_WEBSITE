@@ -9,18 +9,18 @@ html,body{
 }
 
 .pimg1{
-    background-image:url(..\images\road-g1b8b40953_1920.jpg);
+    background-image:url(../images/road-g1b8b40953_1920.jpg);
     min-height:100%;
 }
 
 .pimg2{
-    background-image:url(..\images\forest-g5ca09379a_1920.jpg);
+    background-image:url(../images/forest-g5ca09379a_1920.jpg);
     min-height:400px;
    
 }
 
 .pimg3{
-    background-image:url(..\images\stars-2643089.jpg);
+    background-image:url(../images/stars-2643089.jpg);
     min-height:400px;
    
 }
